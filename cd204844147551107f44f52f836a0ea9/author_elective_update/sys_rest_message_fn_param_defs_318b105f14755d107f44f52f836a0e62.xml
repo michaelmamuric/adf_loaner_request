@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_param_defs">
+    <sys_rest_message_fn_param_defs action="DELETE">
+        <name>country</name>
+        <order>200</order>
+        <rest_message_function display_value="Default GET">c22b5cd314355d107f44f52f836a0ee3</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_param_defs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 20:05:43</sys_created_on>
+        <sys_id>318b105f14755d107f44f52f836a0e62</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>country</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">cd204844147551107f44f52f836a0ea9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">cd204844147551107f44f52f836a0ea9</sys_scope>
+        <sys_update_name>sys_rest_message_fn_param_defs_318b105f14755d107f44f52f836a0e62</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-12 20:05:43</sys_updated_on>
+        <value>${country}</value>
+    </sys_rest_message_fn_param_defs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">cd204844147551107f44f52f836a0ea9</application>
+        <file_path/>
+        <instance_id>8d04622397a55150ed309a34a253afbf</instance_id>
+        <instance_name>nowlearning-nlinst00296586-dev-001</instance_name>
+        <name>sys_rest_message_fn_param_defs_318b105f14755d107f44f52f836a0e62</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_param_defs"><sys_rest_message_fn_param_defs action="INSERT_OR_UPDATE"><name>country</name><order>200</order><rest_message_function display_value="Default GET">c22b5cd314355d107f44f52f836a0ee3</rest_message_function><sys_class_name>sys_rest_message_fn_param_defs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-12 20:05:43</sys_created_on><sys_id>318b105f14755d107f44f52f836a0e62</sys_id><sys_mod_count>0</sys_mod_count><sys_name>country</sys_name><sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">cd204844147551107f44f52f836a0ea9</sys_package><sys_policy/><sys_scope display_value="Loaner Request">cd204844147551107f44f52f836a0ea9</sys_scope><sys_update_name>sys_rest_message_fn_param_defs_318b105f14755d107f44f52f836a0e62</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-12 20:05:43</sys_updated_on><value>${country}</value></sys_rest_message_fn_param_defs></record_update>]]></payload>
+        <payload_hash>-905524537</payload_hash>
+        <record_name>country</record_name>
+        <reverted_from/>
+        <source>f148004c147551107f44f52f836a0ee2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 20:05:43</sys_created_on>
+        <sys_id>7dcb145f14755d107f44f52f836a0ebf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183334ec3450000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-12 20:05:43</sys_updated_on>
+        <type>HTTP Query Parameters</type>
+        <update_guid>b5cb145f5c755d1011cbd5fa9e5b13bf</update_guid>
+        <update_guid_history>b5cb145f5c755d1011cbd5fa9e5b13bf:-905524537</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 20:15:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_fn_param_defs">sys_rest_message_fn_param_defs</sys_db_object>
+        <sys_id>7455249f4dc2417cb6c1f608c25e6910</sys_id>
+        <sys_metadata>318b105f14755d107f44f52f836a0e62</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>country</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">cd204844147551107f44f52f836a0ea9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">cd204844147551107f44f52f836a0ea9</sys_scope>
+        <sys_scope_delete display_value="">341fe9b4f3c9405888381ad7ba3b5840</sys_scope_delete>
+        <sys_update_name>sys_rest_message_fn_param_defs_318b105f14755d107f44f52f836a0e62</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_fn_param_defs_318b105f14755d107f44f52f836a0e62">7dcb145f14755d107f44f52f836a0ebf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-12 20:15:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

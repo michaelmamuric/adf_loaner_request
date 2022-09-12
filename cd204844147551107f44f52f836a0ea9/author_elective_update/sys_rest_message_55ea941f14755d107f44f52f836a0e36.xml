@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="DELETE">
+        <access>package_private</access>
+        <authentication_type>no_authentication</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description>Retrieve Latitude and Longitude from GeoCode.farm</description>
+        <name>Get Lang Long</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://www.geocode.farm/v3/xml/forward</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 20:03:01</sys_created_on>
+        <sys_id>55ea941f14755d107f44f52f836a0e36</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get Lang Long</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">cd204844147551107f44f52f836a0ea9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">cd204844147551107f44f52f836a0ea9</sys_scope>
+        <sys_update_name>sys_rest_message_55ea941f14755d107f44f52f836a0e36</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-12 20:03:01</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">cd204844147551107f44f52f836a0ea9</application>
+        <file_path/>
+        <instance_id>8d04622397a55150ed309a34a253afbf</instance_id>
+        <instance_name>nowlearning-nlinst00296586-dev-001</instance_name>
+        <name>sys_rest_message_55ea941f14755d107f44f52f836a0e36</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message"><sys_rest_message action="INSERT_OR_UPDATE"><access>package_private</access><authentication_type>no_authentication</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><description>Retrieve Latitude and Longitude from GeoCode.farm</description><name>Get Lang Long</name><oauth2_profile/><protocol_name/><rest_endpoint>https://www.geocode.farm/v3/xml/forward</rest_endpoint><sys_class_name>sys_rest_message</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-12 20:03:01</sys_created_on><sys_id>55ea941f14755d107f44f52f836a0e36</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Get Lang Long</sys_name><sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">cd204844147551107f44f52f836a0ea9</sys_package><sys_policy/><sys_scope display_value="Loaner Request">cd204844147551107f44f52f836a0ea9</sys_scope><sys_update_name>sys_rest_message_55ea941f14755d107f44f52f836a0e36</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-12 20:03:01</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mutual_auth>false</use_mutual_auth></sys_rest_message></record_update>]]></payload>
+        <payload_hash>624296115</payload_hash>
+        <record_name>Get Lang Long</record_name>
+        <reverted_from/>
+        <source>f148004c147551107f44f52f836a0ee2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 20:03:01</sys_created_on>
+        <sys_id>122b981f14755d107f44f52f836a0e1b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183334c49ab0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-12 20:03:01</sys_updated_on>
+        <type>REST Message</type>
+        <update_guid>5a2b981fe9755d10577eea7082323d1a</update_guid>
+        <update_guid_history>5a2b981fe9755d10577eea7082323d1a:624296115</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 20:15:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message">sys_rest_message</sys_db_object>
+        <sys_id>3fe403e8f261442fb42a40ce70b2ea99</sys_id>
+        <sys_metadata>55ea941f14755d107f44f52f836a0e36</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get Lang Long</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">cd204844147551107f44f52f836a0ea9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">cd204844147551107f44f52f836a0ea9</sys_scope>
+        <sys_scope_delete display_value="">341fe9b4f3c9405888381ad7ba3b5840</sys_scope_delete>
+        <sys_update_name>sys_rest_message_55ea941f14755d107f44f52f836a0e36</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_55ea941f14755d107f44f52f836a0e36">122b981f14755d107f44f52f836a0e1b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-12 20:15:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
